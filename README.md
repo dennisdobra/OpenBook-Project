@@ -139,6 +139,8 @@ This document describes the **hardware functionality**, **pin mappings**, and **
 
 ## 📦 Bill of Materials (BOM)
 
+| Componenta | Link | Preț estimativ |
+|------------|------|----------------|
 | CHG_LED | [KP-1608SURCK - Kingbright](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) | 0.15€ |
 | SJ1 | [Solder Jumpers](https://grabcad.com/library/solder-jumpers-1) | 0.05€ |
 | R3 | [R0402 1% 100K (RC0402FR-07100KL) - YAGEO](https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL)/YAGEO) | 0.01€ |
@@ -179,6 +181,7 @@ This document describes the **hardware functionality**, **pin mappings**, and **
 | D1 | [USBLC6-2SC6Y - STMicroelectronics](https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda) | 0.60€ |
 | U1 | [W25Q512JVEIQ - Winbond](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) | 4.20€ |
 | IC4 | [XC6220A331MR-G - Torex](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) | 1.25€ |
+
 
 ## 📌 Pin Assignments
 
